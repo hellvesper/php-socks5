@@ -1,6 +1,8 @@
 # socks5-proxy
 Socks5 proxy written in PHP based on [workerman](https://github.com/walkor/Workerman).
 
+* added auth by login/password, see constants section
+* [TODO] UDP
 ## Install
 1. ```git clone https://github.com/walkor/php-socks5```
 

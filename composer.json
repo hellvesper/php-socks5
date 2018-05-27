@@ -5,6 +5,7 @@
     "homepage": "http://www.workerman.net",
     "license" : "MIT",
     "require": {
+        "php" : ">=7.2",
         "workerman/workerman" : ">=3.3.0"
     }
 }
